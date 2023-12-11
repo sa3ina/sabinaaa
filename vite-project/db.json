@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "name": "Aileen Marks",
+      "blog": "Lisandra Alvarado",
+      "id": 12
+    },
+    {
+      "name": "Riley Stafford",
+      "blog": "Owen Alexander",
+      "id": 13
+    },
+    {
+      "name": "Sean Hoffman",
+      "blog": "Scarlet Chavez",
+      "id": 14
+    },
+    {
+      "name": "Kalia Melton",
+      "blog": "Julian Bean",
+      "id": 15
+    },
+    {
+      "name": "Chaney Maldonado",
+      "blog": "Drake Dawson",
+      "id": 16
+    },
+    {
+      "name": "Halee Barry",
+      "blog": "Dora Ratliff",
+      "id": 17
+    },
+    {
+      "name": "Deanna Salazar",
+      "blog": "Xandra Parrish",
+      "id": 18
+    }
+  ]
+}
